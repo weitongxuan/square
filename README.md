@@ -1,0 +1,2 @@
+# square
+npm practice project
