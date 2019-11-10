@@ -28,5 +28,7 @@
   },
   "dependencies": {
     "babel-preset-es2015": "^6.24.1"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/"}
+
 }
