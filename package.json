@@ -2,7 +2,7 @@
   "name": "square",
   "version": "1.0.2",
   "description": "npm practice project",
-  "main": "lib/index.ts",
+  "main": "lib/index.js",
   "scripts": {
     "build": "babel src -d lib --extensions \".ts\" ; tsc src/* --declaration --outDir lib/ --emitDeclarationOnly --declarationMap",
     "test": "echo \"Error: no test specified\" && exit 1"
